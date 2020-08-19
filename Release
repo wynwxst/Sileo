@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: Cool5tar
+Label: Cool5tar
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: Cool5tar - a jailbreak dev

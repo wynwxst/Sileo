@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.cool5tar.ARKHACK</id>
+	<name>Ark Hack</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>net.angelxwind.appsyncunified</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is an hack for ark survival evolved</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
